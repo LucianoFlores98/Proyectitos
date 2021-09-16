@@ -1,0 +1,41 @@
+* {
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.flex-container{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.flex-item{
+
+    background-color: rgb(255, 238, 0);
+    color: blue;
+    margin: 5px;
+    height: 120px;
+    width: 120px;
+
+}
+
+.flex-item1{
+
+    background-color: rgb(75, 238, 11);
+    color: blue;
+    margin: 5px;
+    height: 120px;
+    width: 120px;
+
+}
+
+.flex-item6{
+
+    background-color: rgb(100, 2, 51);
+    color: blue;
+    margin: 5px;
+    height: 120px;
+    width: 120px;
+}
