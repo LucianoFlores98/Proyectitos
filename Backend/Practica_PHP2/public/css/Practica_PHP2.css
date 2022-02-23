@@ -1,0 +1,68 @@
+
+header{
+    position:relative;
+    margin:auto;
+    text-align: center;
+    padding: 5px;
+}
+
+nav{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: auto;
+    background: black;
+}
+
+nav ul{
+    position: relative;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline-block;
+    width: 24%;
+    line-height: 50px;
+    list-style: none;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+section{
+    position: relative;
+    padding: 20px;
+}
+
+table { 
+	width:100px;
+}
+
+table tr:first-child { 
+	background-color: black;
+	color: #FFF;
+}
+
+table { 
+	width:50%;
+}
+
+table td, table th { padding: 5px; }
+
+tr:hover{background-color: #cecbcb;}
+
+th {
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
+input{
+    margin:10px;
+}
